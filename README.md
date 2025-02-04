@@ -1,7 +1,7 @@
 ![mountains_cropped](https://github.com/alexiskaldany/alexiskaldany/assets/42848893/4e245936-fc38-4b92-b02f-ec59fe03f447)
 # Data Scientist and Engineer
 -------------- 
-Combining my background in economics with data engineering and machine learning to create solutions for infrastructure and finance.
+Combining my background in economics with data engineering and machine learning create to solve problems!
 <!--
 **alexiskaldany/alexiskaldany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
